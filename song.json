@@ -1,0 +1,88 @@
+{
+	"title": "Bitter and Blunt",
+	"artist": "YonKaGor",
+	"bpm": 105,
+	"ppq": 96,
+	"lyrics": [
+		{
+			"time": "1:1",
+			"text": "[ Intro ]",
+			"chars": -1,
+			"duration": "4:0"
+		},
+		{
+			"time": "5:1",
+			"text": "It's now the end of all the",
+			"chars": 0
+		},
+		{
+			"time": "6:3",
+			"chars": 4,
+			"duration": "0:2"
+		},
+		{
+			"time": "6:5",
+			"chars": 9,
+			"duration": "0:2"
+		},
+		{
+			"time": "6:7",
+			"chars": 13,
+			"duration": "0:1"
+		},
+		{
+			"time": "6:8",
+			"chars": 17,
+			"duration": "0:2"
+		},
+		{
+			"time": "6:11",
+			"chars": 20,
+			"duration": "0:2"
+		},
+		{
+			"time": "6:13",
+			"chars": 24,
+			"duration": "0:2"
+		},
+		{
+			"time": "6:15",
+			"chars": 27,
+			"duration": "0:2"
+		},
+		{
+			"time": "7:1",
+			"text": "Visions that we had",
+			"chars": 2,
+			"duration": "0:2"
+		},
+		{
+			"time": "7:3",
+			"chars": 8,
+			"duration": "0:1"
+		},
+		{
+			"time": "7:4",
+			"chars": 13,
+			"duration": "0:2"
+		},
+		{
+			"time": "7:7",
+			"chars": 16,
+			"duration": "0:2"
+		},
+		{
+			"time": "7:9",
+			"chars": 19,
+			"duration": "0:6"
+		},
+		{
+			"time": "8:1",
+			"text": "You were a friend but"
+		},
+		{
+			"time": "8:13",
+			"text": "We were never meant to be"
+		}
+	]
+}
